@@ -1,0 +1,5 @@
+2022-10-12 12:30:16,449 [INFO] Weather Data insertion Start
+2022-10-12 12:30:28,933 [ERROR] UNIQUE constraint failed: app_weather.station, app_weather.date
+2022-10-12 12:32:34,688 [INFO] Weather Data insertion Start
+2022-10-12 12:33:22,474 [INFO] Weather Data inserted Successfully
+2022-10-12 12:33:22,475 [INFO] Time taken: 47.786355	 Number of rows inserted: 1729957
