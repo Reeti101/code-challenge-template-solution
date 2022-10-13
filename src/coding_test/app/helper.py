@@ -41,7 +41,7 @@ def import_yield():
     '''
     This function is used to import & save yld_data into the Database
     '''
-    path = os.path.dirname(os.path.dirname(os.getcwd()))+'/yld_data'
+    path = os.path.dirname(os.getcwd())+'/yld_data'
     os.chdir(path)
     logger.info("Weather Data insertion Start")
     start_time = datetime.datetime.now()
